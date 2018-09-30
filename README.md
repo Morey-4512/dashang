@@ -128,4 +128,4 @@ systemctl disable firewalld.service #禁止firewall开机启动
 cp /usr/share/zoneinfo/Asia/Shanghai /etc/localtime
 ```
 ## 教程来源 
-- [biezhi](https://gist.github.com/biezhi/34b70840bb295920e1fb34d5701a1014#%E5%B0%8F%E5%93%A5%E5%93%A5%E4%B8%80%E8%B5%B7%E6%9D%A5%E8%A6%81%E9%A5%AD)
+- [biezhi](https://git.io/fAd0)
